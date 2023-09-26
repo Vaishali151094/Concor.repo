@@ -1,4 +1,5 @@
 package tests;
+import static io.restassured.RestAssured.*;
 
 import org.testng.Assert;
 
